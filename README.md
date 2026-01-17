@@ -1,9 +1,3 @@
----
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
----
-
 # The Data Engineering Handbook
 
 This repo has all the resources you need to become an amazing data engineer!
