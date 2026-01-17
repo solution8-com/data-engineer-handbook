@@ -1,3 +1,7 @@
+---
+metaLinks: {}
+---
+
 # The Data Engineering Handbook
 
 This repo has all the resources you need to become an amazing data engineer!
